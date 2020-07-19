@@ -2,3 +2,7 @@
 #include<string.h>
 #include<algorithm>
 using namespaces std;
+int main()
+{
+
+}
