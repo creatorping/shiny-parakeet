@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1528973494 source:f:\codeblocks film\new\main.cpp
+	<string.h>
+	<algorithm>
+	<iostream>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<fstream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1547126610 source:e:\codeblocks film\shujujiegou\main.cpp
+	<algorithm>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<Windows.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+
